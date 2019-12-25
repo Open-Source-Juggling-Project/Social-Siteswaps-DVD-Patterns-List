@@ -1,0 +1,103 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100%;
+  
+}
+
+.content {
+  max-width: 960px;
+  margin: auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1 {
+  font-size: 5em;
+  font-weight: 900;
+  text-align: center;
+}
+
+h2 {
+  font-size: 4em;
+  font-weight: 800;
+  text-align: center;
+}
+
+h3 {
+  font-size: 3em;
+  font-weight: 700;
+}
+
+h4 {
+  font-size: 2em;
+  font-weight: 600;
+}
+
+p {
+  font-size: 1.5em;
+  text-align: left;
+}
+
+li {
+  font-size: 1.5em;
+  text-align: left;
+}
+
+section {
+  padding: 10px;
+  margin: 20px;
+}
+
+.button {
+  text-align: center;
+}
+
+section a:link,
+section a:visited {
+  background-color: white;
+  color: black;
+  text-align: center;
+  border: 5px solid black;
+  padding: 10px;
+  margin: 10px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+section a:hover,
+section a:active {
+  background-color: black;
+  color: white;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin: 20px;
+}
+
+footer p {
+  text-align: center;
+}
+
+footer a:link,
+footer a:visited {
+  background-color: black;
+  color: white;
+  text-align: center;
+  border: 5px solid white;
+  padding: 10px;
+  margin: 10px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+footer a:hover,
+footer a:active {
+  background-color: white;
+  color: black;
+}
