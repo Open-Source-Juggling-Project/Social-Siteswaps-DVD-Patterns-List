@@ -1,7 +1,6 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 100%;
-  
 }
 
 .content {
@@ -48,15 +47,33 @@ li {
 
 table {
     /* width: 100%; */
+    position: relative;
+    border-collapse: collapse;
 }
 
-table td + td, table th + th { 
-    border-left:2px 
-    solid red; 
+table th + th { 
+    /* border-left: 1px solid white; */
+}
+
+table td + td { 
+    border-left: 1px solid black; 
+}
+
+th, td {
+  padding: 0.25rem;
 }
 
 th {
     /* font-size: 0.5em; */
+    color: white;
+    background: black;
+    position: sticky;
+    top: 0;
+}
+
+.dvd-section {
+    color: white;
+    background-color: grey;
 }
 
 .pattern-details {

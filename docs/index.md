@@ -16,8 +16,6 @@ Testing _data files: https://jekyllrb.com/docs/datafiles/
 
 <table>
   <tr>
-    <tr>
-    <th>Section</th>
     <th>Pattern</th>
     <th>Sum</th>
     <th>Period</th>
@@ -27,19 +25,17 @@ Testing _data files: https://jekyllrb.com/docs/datafiles/
     <th>Passes</th>
     <th>Link</th>
   </tr>
-  </tr>
   {% for pattern in site.data.patterns %}
     {% if pattern.Section %}
   <tr>
-    <td colspan="9" class="dvd-section">{{ pattern.Section }}</td>
+    <td colspan="8" class="dvd-section">{{ pattern.Section }}</td>
   </tr>
     {% else %}
     <tr>
-    <td></td>
     <td colspan="8" class="prechac-pattern">{{ pattern.Pattern }}</td>
     </tr>
   <tr>
-    <td colspan="2" ></td>
+    <td></td>
     <td class="pattern-details pattern-sum">{{ pattern.Sum }}</td>
     <td class="pattern-details pattern-period">{{ pattern.Period }}</td>
     <td class="pattern-details pattern-average">{{ pattern.Average }}</td>
@@ -51,7 +47,6 @@ Testing _data files: https://jekyllrb.com/docs/datafiles/
       {% endif %}
 {% endfor %}
 <tr>
-    <th>Section</th>
     <th>Pattern</th>
     <th>Sum</th>
     <th>Period</th>
