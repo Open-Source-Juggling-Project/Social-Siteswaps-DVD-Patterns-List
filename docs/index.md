@@ -7,14 +7,13 @@ layout: default
 
 # Social Siteswaps DVD Patterns List
 
-Testing _data files: https://jekyllrb.com/docs/datafiles/
+A companion site for those who own the Social Siteswaps DVD from Gandini Juggling.
 
+Don't own it?
 
-## Attempting: Patterns.csv
+[Buy Social Siteswaps DVD](http://www.gandinipress.com/product/social-siteswaps-dvd-ntscall/)
 
-### Using a Table
-
-<table>
+<table class="table-center">
   <tr>
     <th>Pattern</th>
     <th>Sum</th>
@@ -23,17 +22,27 @@ Testing _data files: https://jekyllrb.com/docs/datafiles/
     <th>Jugglers</th>
     <th>Objects</th>
     <th>Passes</th>
-    <th>Link</th>
   </tr>
   {% for pattern in site.data.patterns %}
     {% if pattern.Section %}
   <tr>
-    <td colspan="8" class="dvd-section">{{ pattern.Section }}</td>
+    <td colspan="7" class="dvd-section">{{ pattern.Section }}</td>
   </tr>
     {% else %}
-    <tr>
-    <td colspan="8" class="prechac-pattern">{{ pattern.Pattern }}</td>
-    </tr>
+  {% if pattern.Link %}
+  <tr>
+    <td colspan="7">
+        <div class="prechac-pattern">{{ pattern.Pattern }}</div>
+        <div class="prechac-this-link"><a href="{{ pattern.Link }}">Link to Prechach This</a></div>
+    </td>
+  </tr>  
+  {% else %}
+  <tr>
+    <td colspan="7">
+        <div class="prechac-pattern-solo">{{ pattern.Pattern }}</div>
+    </td>
+  </tr> 
+  {% endif %}
   <tr>
     <td></td>
     <td class="pattern-details pattern-sum">{{ pattern.Sum }}</td>
@@ -42,7 +51,6 @@ Testing _data files: https://jekyllrb.com/docs/datafiles/
     <td class="pattern-details pattern-jugglers">{{ pattern.Jugglers }}</td>
     <td class="pattern-details pattern-objects">{{ pattern.Objects }}</td>
     <td class="pattern-details pattern-passes">{{ pattern.Passes }}</td>
-    <td class="pattern-details pattern-link">{{ pattern.Link }}</td>
   </tr>
       {% endif %}
 {% endfor %}
@@ -54,32 +62,5 @@ Testing _data files: https://jekyllrb.com/docs/datafiles/
     <th>Jugglers</th>
     <th>Objects</th>
     <th>Passes</th>
-    <th>Link</th>
   </tr>
 </table>
-
-
-### Using a List
-
-Section,Pattern,Sum,Period,Average,Jugglers,Objects,Passes,Link
-
-<ul>
-{% for pattern in site.data.patterns %}
-    {% if pattern.Section %}
-        <li>
-            {{ pattern.Section }}
-        </li>
-    {% else %}
-        <li>
-            {{ pattern.Pattern }} <br />
-            {{ pattern.Sum }} <br />
-            {{ pattern.Period }} <br />
-            {{ pattern.Average }} <br />
-            {{ pattern.Jugglers }} <br />
-            {{ pattern.Objects }} <br />
-            {{ pattern.Passes }} <br />
-            {{ pattern.Link }}
-        </li>
-    {% endif %}
-{% endfor %}
-</ul>
