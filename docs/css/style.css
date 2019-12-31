@@ -49,7 +49,7 @@ li {
   text-align: left;
 }
 
-*/
+End of Unused Styling */
 
 /* -------------------------- */
 
@@ -97,12 +97,10 @@ td {
 
 .prechac-pattern {
     float:left;
-    width:40%;
 }
 
 .prechac-this-link {
     float:right;
-    width:60%;
     text-align: right;
 }
 
@@ -136,6 +134,8 @@ td {
 
 /* -------------------------- */
 
+/* Section Styling */
+
 section {
   padding: 10px;
   margin: 20px;
@@ -162,6 +162,12 @@ section a:active {
   background-color: black;
   color: white;
 }
+
+/* End of Section Styling */
+
+/* -------------------------- */
+
+/* Footer Styling */
 
 footer {
   background-color: black;
@@ -191,3 +197,7 @@ footer a:active {
   background-color: white;
   color: black;
 }
+
+/* End of Footer Styling */
+
+/* -------------------------- */

@@ -14,6 +14,7 @@ Don't own it?
 [Buy Social Siteswaps DVD](http://www.gandinipress.com/product/social-siteswaps-dvd-ntscall/)
 
 <table class="table-center">
+  <thead>
   <tr>
     <th>Pattern</th>
     <th>Sum</th>
@@ -23,6 +24,8 @@ Don't own it?
     <th>Objects</th>
     <th>Passes</th>
   </tr>
+  </thead>
+  <tbody>
   {% for pattern in site.data.patterns %}
     {% if pattern.Section %}
   <tr>
@@ -54,6 +57,8 @@ Don't own it?
   </tr>
       {% endif %}
 {% endfor %}
+</tbody>
+<tfoot>
 <tr>
     <th>Pattern</th>
     <th>Sum</th>
@@ -63,4 +68,5 @@ Don't own it?
     <th>Objects</th>
     <th>Passes</th>
   </tr>
+  </tfoot>
 </table>
