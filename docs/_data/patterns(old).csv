@@ -1,0 +1,443 @@
+Section,Pattern,Sum,Period,Average,Jugglers,Objects,Passes,Link
+"Section: 2 Jugglers, 3 Objects, Period 2",,,,,,,,
+,3p 0,3,2,1.5,2,3,1,http://prech.ac/2:3p0
+,2p 1,3,2,1.5,2,3,1,http://prech.ac/2:2p1
+"Section: 2 Jugglers, 3 Objects, Period 4",,,,,,,,
+,2 2 1p 1,6,4,1.5,2,3,1,http://prech.ac/2:221p1
+,2 2p 2 0,6,4,1.5,2,3,1,http://prech.ac/2:22p20
+,2 2p 1 1,6,4,1.5,2,3,1,http://prech.ac/2:22p11
+,2p 2p 1 1p,6,4,1.5,2,3,3,http://prech.ac/2:2p2p11p
+,2p 2 1p 1p,6,4,1.5,2,3,3,http://prech.ac/2:2p21p1p
+,3p 1p 1 1p,6,4,1.5,2,3,3,http://prech.ac/2:3p1p11p
+,3 1 1p 1,6,4,1.5,2,3,1,http://prech.ac/2:311p1
+,3p 1 1 1,6,4,1.5,2,3,1,http://prech.ac/2:3p111
+,3p 2 0 1,6,4,1.5,2,3,1,http://prech.ac/2:3p201
+,3 0 2p 1,6,4,1.5,2,3,1,http://prech.ac/2:302p1
+,3 0 2 1p,6,4,1.5,2,3,1,http://prech.ac/2:3021p
+,4p 0 1 1,6,4,1.5,2,3,1,http://prech.ac/2:4p011
+,4 0 1 1p,6,4,1.5,2,3,1,http://prech.ac/2:4011p
+,4 1 1p 0,6,4,1.5,2,3,1,http://prech.ac/2:411p0
+"Section: 3 Objects, French Section",,,,,,,,
+,2 2 1p 1,6,4,1.5,2,3,1,http://prech.ac/2:221p1
+,3 1 1p 1,6,4,1.5,2,3,1,http://prech.ac/2:311p1
+,3b 1 1p 1,6,4,1.5,2,3,1,http://prech.ac/2:3b11p1
+,2 2b 1p 1,6,4,1.5,2,3,1,http://prech.ac/2:22b1p1
+,2 2 1p 1,6,4,1.5,2,3,1,http://prech.ac/2:221p1
+,3 1 1p 1,6,4,1.5,2,3,1,http://prech.ac/2:311p1
+,3p 1 1 1,6,4,1.5,2,3,1,http://prech.ac/2:3p111
+,2 2p 1 1,6,4,1.5,2,3,1,http://prech.ac/2:22p11
+,2 2 1p 1,6,4,1.5,2,3,1,http://prech.ac/2:221p1
+,3 1 1p 1,6,4,1.5,2,3,1,http://prech.ac/2:311p1
+,2 2 1p 1,6,4,1.5,2,3,1,http://prech.ac/2:221p1
+,3 1 3p 1 1 1 1 1,12,8,1.5,2,3,1,http://prech.ac/2:313p11111
+,3 1 2 2p 1 1 1 1,12,8,1.5,2,3,1,http://prech.ac/2:3122p1111
+,4 1 1 2p 1 1 1 1,12,8,1.5,2,3,1,http://prech.ac/2:4112p1111
+,2 4p 1 1 1 1 1 1,12,8,1.5,2,3,1,http://prech.ac/2:24p111111
+,5p 1 1 1 1 1 1 1,12,8,1.5,2,3,1,http://prech.ac/2:5p1111111
+"Section: 1.5p, French Section",,,,,,,,
+,1.5p,1.5,1,1.5,2,3,1,http://prech.ac/2:1.5p
+,3 1.5p 1.5p,6,3,2,2,4,2,http://prech.ac/2:31.5p1.5p
+,3 3 1.5p,7.5,3,2.5,2,5,1,http://prech.ac/2:331.5p
+"Section: 4 Jugglers, 2 to 8 Objects",,,,,,,,
+,1 1p 0 0,2,4,0.5,4,2,1,http://prech.ac/4:11p00
+,3 1 1p 1,6,4,1.5,4,6,1,http://prech.ac/4:311p1
+,3p 3 1 1p,8,4,2,4,8,2,http://prech.ac/4:3p311p
+,4 2p 1 1p,8,4,2,4,8,2,http://prech.ac/4:42p11p
+,2 2p 1 1,6,4,1.5,4,6,1,http://prech.ac/4:22p11
+"Section: 2 Jugglers, 3 Objects, Period 3",,,,,,,,
+,2 1.5p 1,4.5,3,1.5,2,3,1,http://prech.ac/2:21.5p1
+,2.5p 1 1,4.5,3,1.5,2,3,1,http://prech.ac/2:2.5p11
+,2.5p 2 0,4.5,3,1.5,2,3,1,http://prech.ac/2:2.5p20
+,3 1.5p 0,4.5,3,1.5,2,3,1,http://prech.ac/2:31.5p0
+,3 0 1.5p,4.5,3,1.5,2,3,1,http://prech.ac/2:301.5p
+,3.5p 0 1,4.5,3,1.5,2,3,1,http://prech.ac/2:3.5p01
+"Section: 2.5p, French Section",,,,,,,,
+,2.5p 1 1,4.5,3,1.5,2,3,1,http://prech.ac/2:2.5p11
+,2.5p 2.5p 1,6,3,2,2,4,2,http://prech.ac/2:2.5p2.5p1
+,2.5p,2.5,1,2.5,2,5,1,http://prech.ac/2:2.5p
+,3.5p,3.5,1,3.5,2,7,1,http://prech.ac/2:3.5p
+"Section: 2 Jugglers, 3 Objects, Period 5 & 6",,,,,,,,
+,3p 3p 3p 0 0 0,9,6,1.5,2,3,3,http://prech.ac/2:3p3p3p000
+,2p 1 2p 1 2 1p,9,6,1.5,2,3,3,http://prech.ac/2:2p12p121p
+,3 0 3p 1 2 0,9,6,1.5,2,3,1,http://prech.ac/2:303p120
+,3 1 1.5p 1 1,7.5,5,1.5,2,3,1,http://prech.ac/2:311.5p11
+,4 0 3p 0 2 0,9,6,1.5,2,3,1,http://prech.ac/2:403p020
+"Section: 4 & 7 Clubs, Berlin Passing",,,,,,,,
+,"This section was only a demonstration, with no patterns listed.",,,,,,,
+"Section: 2 Jugglers, 4 Objects, Period 4",,,,,,,,
+,3 1p 2p 2,8,4,2,2,4,2,http://prech.ac/2:31p2p2
+,3p 1 2 2p,8,4,2,2,4,2,http://prech.ac/2:3p122p
+,3p 2 2p 1,8,4,2,2,4,2,http://prech.ac/2:3p22p1
+,3 2p 2 1p,8,4,2,2,4,2,http://prech.ac/2:32p21p
+,3 2p 2p 1,8,4,2,2,4,2,http://prech.ac/2:32p2p1
+,3p 3 2p 0,8,4,2,2,4,2,http://prech.ac/2:3p32p0
+,3p 3 0 2p,8,4,2,2,4,2,http://prech.ac/2:3p302p
+,3p 3 1 1p,8,4,2,2,4,2,http://prech.ac/2:3p311p
+,3p 3p 1 1,8,4,2,2,4,2,http://prech.ac/2:3p3p11
+,4p 0 1 3p,8,4,2,2,4,2,http://prech.ac/2:4p013p
+,4 3p 1p 0,8,4,2,2,4,2,http://prech.ac/2:43p1p0
+,4p 1p 1 2,8,4,2,2,4,2,http://prech.ac/2:4p1p12
+,4 1 1p 2p,8,4,2,2,4,2,http://prech.ac/2:411p2p
+,4p 2 1p 1,8,4,2,2,4,2,http://prech.ac/2:4p21p1
+,4p 2p 2 0,8,4,2,2,4,2,http://prech.ac/2:4p2p20
+,4p 2p 1 1,8,4,2,2,4,2,http://prech.ac/2:4p2p11
+,4p 2 1p 1,8,4,2,2,4,2,http://prech.ac/2:4p21p1
+,4 2p 1 1p,8,4,2,2,4,2,http://prech.ac/2:42p11p
+,4p 3 1p 0,8,4,2,2,4,2,http://prech.ac/2:4p31p0
+,5p 1 1p 1,8,4,2,2,4,2,http://prech.ac/2:5p11p1
+,5p 0 2p 1,8,4,2,2,4,2,http://prech.ac/2:5p02p1
+"Section: 4 Objects, French Section",,,,,,,,
+,3p 2 2 1p,8,4,2,2,4,2,http://prech.ac/2:3p221p
+,3p 2 2p 1,8,4,2,2,4,2,http://prech.ac/2:3p22p1
+,3 2p 2p 1,8,4,2,2,4,2,http://prech.ac/2:32p2p1
+,3 2p 2 1p,8,4,2,2,4,2,http://prech.ac/2:32p21p
+,2 3 1p 2p,8,4,2,2,4,2,http://prech.ac/2:231p2p
+,3 3p 1p 1,8,4,2,2,4,2,http://prech.ac/2:33p1p1
+,2p 2p 1 3,8,4,2,2,4,2,http://prech.ac/2:2p2p13
+,4p 1p 1 2,8,4,2,2,4,2,http://prech.ac/2:4p1p12
+,4 1 1p 2p,8,4,2,2,4,2,http://prech.ac/2:411p2p
+,4 2 1p 1p,8,4,2,2,4,2,http://prech.ac/2:421p1p
+,3p 3 1 1p,8,4,2,2,4,2,http://prech.ac/2:3p311p
+,4 2p 1 1p,8,4,2,2,4,2,http://prech.ac/2:42p11p
+,3p 3p 1 1,8,4,2,2,4,2,http://prech.ac/2:3p3p11
+,4p 2p 1 1,8,4,2,2,4,2,http://prech.ac/2:4p2p11
+,3 3p 1p 1,8,4,2,2,4,2,http://prech.ac/2:33p1p1
+,4p 2 1p 1,8,4,2,2,4,2,http://prech.ac/2:4p21p1
+,3 3 1p 1p,8,4,2,2,4,2,http://prech.ac/2:331p1p
+,4 2 1p 1p,8,4,2,2,4,2,http://prech.ac/2:421p1p
+"Section: 2 Jugglers, 4 Objects, Period 3 & 5",,,,,,,,
+,2.5p 2.5p 1,6,3,2,2,4,2,http://prech.ac/2:2.5p2.5p1
+,2.5p 2 1.5p,6,3,2,2,4,2,http://prech.ac/2:2.5p21.5p
+,2.5p 2 2.5p 1 2,10,5,2,2,4,2,http://prech.ac/2:2.5p22.5p12
+,2.5p 3 1 1.5p 2,10,5,2,2,4,2,http://prech.ac/2:2.5p311.5p2
+,0 0 1 1.5p 0,2.5,5,0.5,2,1,1,http://prech.ac/2:0011.5p0
+,4 2.5p 0 2.5p 1,10,5,2,2,4,2,http://prech.ac/2:42.5p02.5p1
+"Section: French Section, Minimal Rings",,,,,,,,
+,1.5p,1.5,1,1.5,2,3,1,http://prech.ac/2:1.5p
+,3p 2 0 1,6,4,1.5,2,3,1,http://prech.ac/2:3p201
+,3p 2 2p 1,8,4,2,2,4,2,http://prech.ac/2:3p22p1
+,2.5p,2.5,1,2.5,2,5,1,http://prech.ac/2:2.5p
+"Section: 2 Jugglers, 4 Objects, Period 6",,,,,,,,
+,3p 3p 3p 2 0 1p,12,6,2,2,4,4,http://prech.ac/2:3p3p3p201p
+,3 3p 3p 1 2 0,12,6,2,2,4,2,http://prech.ac/2:33p3p120
+,3 3p 3p 2 0 1,12,6,2,2,4,2,http://prech.ac/2:33p3p201
+,3 3p 3p 1 2 0,12,6,2,2,4,2,http://prech.ac/2:33p3p120
+,3 1p 3p 1 2 2,12,6,2,2,4,2,http://prech.ac/2:31p3p122
+,3 1p 3p 1 3 1,12,6,2,2,4,2,http://prech.ac/2:31p3p131
+,3 2p 3 1 1p 2,12,6,2,2,4,2,http://prech.ac/2:32p311p2
+,3 3p 0 3 1 2p,12,6,2,2,4,2,http://prech.ac/2:33p0312p
+,3p 3p 3p 0 1 2p,12,6,2,2,4,4,http://prech.ac/2:3p3p3p012p
+,4 0 3p 2 2 1p,12,6,2,2,4,2,http://prech.ac/2:403p221p
+,4 1p 2p 0 2 3,12,6,2,2,4,2,http://prech.ac/2:41p2p023
+,4p 1 1 2 3p 1,12,6,2,2,4,2,http://prech.ac/2:4p1123p1
+,4 1p 1 2p 3 1,12,6,2,2,4,2,http://prech.ac/2:41p12p31
+"Section: 2 Jugglers, 4 Objects, Period 6, 6 Passes",,,,,,,,
+,3p 1p 2p 2p 3p 1p,12,6,2,2,4,6,http://prech.ac/2:3p1p2p2p3p1p
+"Section: 1 to 17 Balls, Table Patterns",,,,,,,,
+,0.5p,0.5,1,0.5,2,1,1,http://prech.ac/2:0.5p
+,0.5p 1.5p 1,3,3,1,2,2,2,http://prech.ac/2:0.5p1.5p1
+,0.5p 1.5p 4,6,3,2,2,4,2,http://prech.ac/2:0.5p1.5p4
+,0.5p 0.5p 2,3,3,1,2,2,2,http://prech.ac/2:0.5p0.5p2
+,4p 2 3 1,10,4,2.5,2,5,1,http://prech.ac/2:4p231
+,2.5p 2.5p 3.5p 1 3,12.5,5,2.5,2,5,3,http://prech.ac/2:2.5p2.5p3.5p13
+,1p 2p 3p 4p 5p 5p 1 2 3 4,30,10,3,2,6,6,http://prech.ac/2:1p2p3p4p5p5p1234
+,0.5p 1.5p 2.5p,4.5,3,1.5,2,3,3,http://prech.ac/2:0.5p1.5p2.5p
+,1.5p 2.5p 3.5p,7.5,3,2.5,2,5,3,http://prech.ac/2:1.5p2.5p3.5p
+,2.5p 3.5p 4.5p,10.5,3,3.5,2,7,3,http://prech.ac/2:2.5p3.5p4.5p
+,3.5p 4.5p 5.5p,13.5,3,4.5,2,9,3,http://prech.ac/2:3.5p4.5p5.5p
+,15.5p 1 6.5p 7 15,45,5,9,2,18,2,"http://prechacthis.org/info.php?pattern=[p(15.5,1,18),p(1,0,1),p(6.5,1,9),p(7,0,7),p(15,0,15)]&persons=2&swap=[]&back=persons%3D2%26amp%3Bobjects%3D18%26amp%3Blengths%3D5%26amp%3Bmax%3D16%26amp%3Bpassesmin%3D2%26amp%3Bpassesmax%3D2%26amp%3Bjugglerdoes%3D15.5p%2B1%2B6.5p%2B7%2B15%26amp%3Bexclude%3D%26amp%3Bclubdoes%3D%26amp%3Breact%3D%26amp%3Bresults%3D"
+,6.5p 7 5 3 1,22.5,5,4.5,2,9,1,http://prech.ac/2:6.5p7531
+,28 2p 2p 2p,34,4,8.5,2,17,3,"http://prechacthis.org/info.php?pattern=[p(28,0,28),p(2,1,4),p(2,1,4),p(2,1,4)]&persons=2&swap=[]&back=persons%3D2%26amp%3Bobjects%3D17%26amp%3Blengths%3D4%26amp%3Bmax%3D1%26amp%3Bpassesmin%3D3%26amp%3Bpassesmax%3D3%26amp%3Bjugglerdoes%3D28%2B2p%2B2p%2B2p%26amp%3Bexclude%3D%26amp%3Bclubdoes%3D%26amp%3Breact%3D%26amp%3Bresults%3D42"
+,1 1p 11 1 1 2p 4 2 15p 2p,40,10,4,2,8,4,"http://prechacthis.org/info.php?pattern=[p(15,1,20),p(2,1,7),p(1,0,1),p(1,1,6),p(11,0,11),p(1,0,1),p(1,0,1),p(2,1,7),p(4,0,4),p(2,0,2)]&persons=2&swap=[]&back=persons%3D2%26amp%3Bobjects%3D8%26amp%3Blengths%3D10%26amp%3Bmax%3D11%26amp%3Bpassesmin%3D4%26amp%3Bpassesmax%3D4%26amp%3Bjugglerdoes%3D1%2B1p%2B11%2B1%2B1%2B2p%2B4%2B2%2B15p%2B2p%26amp%3Bexclude%3D%26amp%3Bclubdoes%3D%26amp%3Breact%3D%26amp%3Bresults%3D42"
+"Section: 2 Jugglers, 5 Objects, Others",,,,,,,,
+,2.5p,2.5,1,2.5,2,5,1,http://prech.ac/2:2.5p
+,3 3 3 3p 2 2 2 2,20,8,2.5,2,5,1,http://prech.ac/2:3333p2222
+"Section: 5 Objects, French Section",,,,,,,,
+,3 3p 3 1,10,4,2.5,2,5,1,http://prech.ac/2:33p31
+,3 3pb 3 1,10,4,2.5,2,5,1,http://prech.ac/2:33pb31
+,3b 3p 3 1,10,4,2.5,2,5,1,http://prech.ac/2:3b3p31
+,3 3p 3b 1,10,4,2.5,2,5,1,http://prech.ac/2:33p3b1
+,3b 3pb 3b 1,10,4,2.5,2,5,1,http://prech.ac/2:3b3pb3b1
+,3p 3p 3p 1 1 4,15,6,2.5,2,5,3,http://prech.ac/2:3p3p3p114
+,3p 4p 2p 1 1 4,15,6,2.5,2,5,3,http://prech.ac/2:3p4p2p114
+,4p 2p 3p 1 1 4,15,6,2.5,2,5,3,http://prech.ac/2:4p2p3p114
+,4p 4p 1p 1 1 4,15,6,2.5,2,5,3,http://prech.ac/2:4p4p1p114
+,3 3p 2 2,10,4,2.5,2,5,1,http://prech.ac/2:33p22
+,3 3p 3 1,10,4,2.5,2,5,1,http://prech.ac/2:33p31
+,4p 3 1 2,10,4,2.5,2,5,1,http://prech.ac/2:4p312
+,4p 4 1 1,10,4,2.5,2,5,1,http://prech.ac/2:4p411
+,3 3 2p 2,10,4,2.5,2,5,1,http://prech.ac/2:332p2
+,3 4 2p 1,10,4,2.5,2,5,1,http://prech.ac/2:342p1
+,4 2 2p 2,10,4,2.5,2,5,1,http://prech.ac/2:422p2
+,4p 4p 4p 1 1 1,15,6,2.5,2,5,3,http://prech.ac/2:4p4p4p111
+,5p 3p 4p 1 1 1,15,6,2.5,2,5,3,http://prech.ac/2:5p3p4p111
+,3 3 3 1p,10,4,2.5,2,5,1,http://prech.ac/2:3331p
+,4 2 3 1p,10,4,2.5,2,5,1,http://prech.ac/2:4231p
+,3 4 2 1p,10,4,2.5,2,5,1,http://prech.ac/2:3421p
+,4 4 1 1p,10,4,2.5,2,5,1,http://prech.ac/2:4411p
+"Section: 3 Jugglers, 4 to 15 Objects",,,,,,,,
+,2 1p 1,4,3,1.33,3,4,1,http://prech.ac/3:21p1
+,2p 2 0,4,3,1.33,3,4,1,http://prech.ac/3:2p20
+,2p 1 1,4,3,1.33,3,4,1,http://prech.ac/3:2p11
+,3 2p 2p 3p 1 1p,12,6,2,3,6,4,http://prech.ac/3:32p2p3p11p
+,2p 1p 0,3,3,1,3,3,2,http://prech.ac/3:2p1p0
+,2p 1p 3,6,3,2,3,6,2,http://prech.ac/3:2p1p3
+,3 2p 2,7,3,2.33,3,7,1,http://prech.ac/3:32p2
+,2.6p 1 1.6p 2 3 1.6p 2.3p 1.6p,16,8,2,3,6,5,http://prech.ac/3:2.6p11.6p231.6p2.3p1.6p
+,3.6p 3,6.67,2,3.33,3,10,1,http://prech.ac/3:3.6p3
+,4p 3 3,10,3,3.33,3,10,1,http://prech.ac/3:4p33
+,4.3p 3,7.33,2,3.67,3,11,1,http://prech.ac/3:4.3p3
+,5p 3,8,2,4,3,12,1,
+,6.3p 3,9.33,2,4.67,3,14,1,http://prech.ac/3:6.3p3
+,5p 5,10,2,5,3,15,1,
+"Section: 2 Jugglers, 5 Objects, Period 3 & 5",,,,,,,,
+,3 2.5p 2,7.5,3,2.5,2,5,1,http://prech.ac/2:32.5p2
+,4 3.5p 0,7.5,3,2.5,2,5,1,http://prech.ac/2:43.5p0
+,3.5p 3 3 1.5p 1.5p ,12.5,5,2.5,2,5,3,http://prech.ac/2:3.5p331.5p1.5p
+"Section: 2 Jugglers, 5 Objects, Period 4",,,,,,,,
+,3 3 3 1p,10,4,2.5,2,5,1,http://prech.ac/2:3331p
+,3 3 2p 2,10,4,2.5,2,5,1,http://prech.ac/2:332p2
+,4p 2 2 2,10,4,2.5,2,5,1,http://prech.ac/2:4p222
+,4 2p 1 3,10,4,2.5,2,5,1,http://prech.ac/2:42p13
+,4 2 1p 3,10,4,2.5,2,5,1,http://prech.ac/2:421p3
+,4 3p 3 0,10,4,2.5,2,5,1,http://prech.ac/2:43p30
+,4 3p 1 2,10,4,2.5,2,5,1,http://prech.ac/2:43p12
+,4p 3 1 2,10,4,2.5,2,5,1,http://prech.ac/2:4p312
+,4p 4 1 1,10,4,2.5,2,5,1,http://prech.ac/2:4p411
+,4 4 1 1p,10,4,2.5,2,5,1,http://prech.ac/2:4411p
+,5 3 1 1p,10,4,2.5,2,5,1,http://prech.ac/2:5311p
+,5p 1 3 1,10,4,2.5,2,5,1,http://prech.ac/2:5p131
+,5 1 3p 1,10,4,2.5,2,5,1,http://prech.ac/2:513p1
+,5 3p 1 1,10,4,2.5,2,5,1,http://prech.ac/2:53p11
+,5 1 4p 0,10,4,2.5,2,5,1,http://prech.ac/2:514p0
+,5p 3 0 2,10,4,2.5,2,5,1,http://prech.ac/2:5p302
+,5 4p 0 1,10,4,2.5,2,5,1,http://prech.ac/2:54p01
+,5p 4 0 1,10,4,2.5,2,5,1,http://prech.ac/2:5p401
+,8 1 1p 0,10,4,2.5,2,5,1,http://prech.ac/2:811p0
+"Section: 6 Jugglers, 12 Objects",,,,,,,,
+,4 2p 1 1p,8,4,2,6,12,2,http://prech.ac/6:42p11p
+"Section: 3 & 4 Jugglers, Feeds Patterns",,,,,,,,
+,3p 0 fed by 3p,,2 & 1,,3,6,,
+,2 1p fed by 1p,,2 & 1,,3,4,,
+,2p 1 fed by 2p,,2 & 1,,3,5,,
+,2p 1 fed by 2p,,2 & 1,,4,7,,
+,4 2 3 2p 3 1 fed by 2p 3 1,,6 & 3,,3,7,,
+,4 2 3 2p 3 4p fed by 2p 3 4p,,6 & 3,,3,9,,
+,4 0 2 0 3p 0 fed by 4 2 3p,,6 & 3,,3,6,,
+,4 0 2 0 3p 0 fed by 4 2 3p,,6 & 3,,4,9,,
+,[lots of numbers],,,,,,,
+"Section: 2 Jugglers, 5 Objects, Period 4 & 6, 3 Passes",,,,,,,,
+,0 0 2p 2p,4,4,1,2,2,2,http://prech.ac/2:002p2p
+,3p 3 0 0,6,4,1.5,2,3,1,http://prech.ac/2:3p300
+,3p 3 0 2p,8,4,2,2,4,2,http://prech.ac/2:3p302p
+,3p 3 2p 2p,10,4,2.5,2,5,3,http://prech.ac/2:3p32p2p
+,4 3p 1p 2p,10,4,2.5,2,5,3,http://prech.ac/2:43p1p2p
+,4p 1 1 3 3p 3p,15,6,2.5,2,5,3,http://prech.ac/2:4p1133p3p
+,3p 2 3 2p 3 2p,15,6,2.5,2,5,3,http://prech.ac/2:3p232p32p
+,3 3p 3 3 1p 2p,15,6,2.5,2,5,3,http://prech.ac/2:33p331p2p
+,3 3 2p 3 1p 3p,15,6,2.5,2,5,3,http://prech.ac/2:332p31p3p
+,4 3p 3p 3p 1 1,15,6,2.5,2,5,3,http://prech.ac/2:43p3p3p11
+"Section: 2 Jugglers, 5 Objects, Period 6",,,,,,,,
+,3 3 3 3 1p 2,15,6,2.5,2,5,1,http://prech.ac/2:33331p2
+,4 1p 1 3 3 3,15,6,2.5,2,5,1,http://prech.ac/2:41p1333
+,4 1p 1 4 4 1,15,6,2.5,2,5,1,http://prech.ac/2:41p1441
+,4 1 3 3p 3 1,15,6,2.5,2,5,1,http://prech.ac/2:4133p31
+,4 2 3 2p 2 2,15,6,2.5,2,5,1,http://prech.ac/2:4232p22
+,4 2 3 2p 3 1,15,6,2.5,2,5,1,http://prech.ac/2:4232p31
+,4 3p 1 3 1 3,15,6,2.5,2,5,1,http://prech.ac/2:43p1313
+,5 3 1 1p 2 3,15,6,2.5,2,5,1,http://prech.ac/2:5311p23
+"Section: 3 Jugglers, Weaves Patterns",,,,,,,,
+,3 3 3 3p 2 2 2 2,20,8,2.5,2,5,1,http://prech.ac/2:3333p2222
+,3 3 3p 2 2 2 2 2 2,21,9,2.33,3,7,1,http://prech.ac/3:333p222222
+,3 3 3 3 1p 2 2 2 2,21,9,2.33,3,7,1,http://prech.ac/3:33331p2222
+,5p 2 2 2 2 2 2 2 2,21,9,2.33,3,7,1,http://prech.ac/3:5p22222222
+,3 3 3 3 3 3p 2 2 2,24,9,2.67,3,8,1,http://prech.ac/3:333333p222
+,5 2 2 5p 2 2 2 2 2,24,9,2.67,3,8,1,http://prech.ac/3:5225p22222
+,4p 3p 3p 3p 0 0 0 2 0,15,9,1.67,3,5,4,http://prech.ac/3:4p3p3p3p00020
+,3p 1p 2 0 2 2 2 3 3,18,9,2,3,6,2,http://prech.ac/3:3p1p2022233
+,3p 1p 2 0 2 2 2 3 3,18,9,2,3,6,2,http://prech.ac/3:3p1p2022233
+,3 3 3 3p 2 2,16,6,2.67,3,8,1,http://prech.ac/3:3333p22
+,3 3 4p 2 1p 2 0 1 2,18,9,2,3,6,2,http://prech.ac/3:334p21p2012
+,3 3 3p 2 2 2 2 2 2 3 3 3p 2 2 2,36,15,2.4,5,12,2,http://prech.ac/5:333p222222333p222
+"Section: Period 6, French Section",,,,,,,,
+,2 2p 2p 0 0 0,6,6,1,2,2,2,http://prech.ac/2:22p2p000
+,2 2p 2p 1 1 4,12,6,2,2,4,2,http://prech.ac/2:22p2p114
+,2 3p 1p 0 0 0,6,6,1,2,2,2,http://prech.ac/2:23p1p000
+,2 3p 1p 1 1 4,12,6,2,2,4,2,http://prech.ac/2:23p1p114
+,3p 1 2p 0 0 0,6,6,1,2,2,2,http://prech.ac/2:3p12p000
+,3p 1 2p 1 1 4,12,6,2,2,4,2,http://prech.ac/2:3p12p114
+,4p 1 1p 0 0 0,6,6,1,2,2,2,http://prech.ac/2:4p11p000
+,4p 1 1p 1 1 4,12,6,2,2,4,2,http://prech.ac/2:4p11p114
+"Section: MultiProp, French Section",,,,,,,,
+,4 3p 3p 2,12,4,3,2,6,2,http://prech.ac/2:43p3p2
+,4 4p 4p 2 2 2,18,6,3,2,6,2,http://prech.ac/2:44p4p222
+,4 5p 3p 2 2 2,18,6,3,2,6,2,http://prech.ac/2:45p3p222
+,4 4 4 2p,14,4,3.5,2,7,1,http://prech.ac/2:4442p
+"Section: MaxiPop, French Section",,,,,,,,
+,"(3p, 3p)",6,2,3,2,6,2,
+,"<(3p, 3p) | (3pb, 3pb)>",12,4,3,2,6,4,
+,"(4, 4) (3p, 3p) (2, 2)",18,6,3,2,6,2,
+,"(4, 4) (3p, 3p) (2x, 2x)",18,6,3,2,6,2,
+,"(4, 4) (3p, 3p) (2b, 2b)",18,6,3,2,6,2,
+,5pb 3p 2 2,12,4,3,2,6,2,http://prech.ac/2:5pb3p22
+,5pb 3p 3 1,12,4,3,2,6,2,http://prech.ac/2:5pb3p31
+,5pb 3p 3b 1,12,4,3,2,6,2,http://prech.ac/2:5pb3p3b1
+,4p 3,7,2,3.5,2,7,1,http://prech.ac/2:4p3
+,4 3p,7,2,3.5,2,7,1,http://prech.ac/2:43p
+,5pb 3 3 3,14,4,3.5,2,7,1,http://prech.ac/2:5pb333
+,5pb 5b 3 1,14,4,3.5,2,7,1,http://prech.ac/2:5pb5b31
+,5pb 5b 3b 1,14,4,3.5,2,7,1,http://prech.ac/2:5pb5b3b1
+,4 4p 3 3,14,4,3.5,2,7,1,http://prech.ac/2:44p33
+,5p 3 3 3,14,4,3.5,2,7,1,http://prech.ac/2:5p333
+,5p 5 3 1,14,4,3.5,2,7,1,http://prech.ac/2:5p531
+,"(6x, 4) (4, 6x) (6p, 4) (4, 4) (4, 4) (4, 4)",54,12,4.5,2,9,1,
+"Section: 4 Jugglers, 14 to 24 Objects",,,,,,,,
+,4.5p 3 3,10.5,3,3.5,4,14,1,http://prech.ac/4:4.5p33
+,3.5p,3.5,1,3.5,4,14,1,http://prech.ac/4:3.5p
+,5 3 4p 3 3 3,21,6,3.5,4,14,1,http://prech.ac/4:534p333
+,4 4 4p 3 3 3,21,6,3.5,4,14,1,http://prech.ac/4:444p333
+,5p 3 3 3,14,4,3.5,4,14,1,http://prech.ac/4:5p333
+,4p 3,7,2,3.5,4,14,1,http://prech.ac/4:4p3
+,5 3 4p 3,15,4,3.75,4,15,1,http://prech.ac/4:534p3
+,5p 3,8,2,4,4,16,1,
+,"(4p, 4p) (4, 4) (4, 4)",24,6,4,4,16,2,
+,"(5p, 4x)",9,2,4.5,4,18,1,
+,6p 3,9,2,4.5,4,18,1,http://prech.ac/4:6p3
+,5p 5,10,2,5,4,20,1,
+,"(6p, 4x)",10,2,5,4,20,1,
+,6p 5,11,2,5.5,4,22,1,
+,7p 5,12,2,6,4,24,1,
+,"(7p, 4x)",11,2,5.5,4,22,1,
+"Section: 2 Jugglers, 6 & 7 Objects",,,,,,,,
+,3p 4p 2 3,12,4,3,2,6,2,http://prech.ac/2:3p4p23
+,4 3p 3p 2,12,4,3,2,6,2,http://prech.ac/2:43p3p2
+,3 3p 4p 2,12,4,3,2,6,2,http://prech.ac/2:33p4p2
+,4p 5p 1 2,12,4,3,2,6,2,http://prech.ac/2:4p5p12
+,4 2 3 2p 3 4p,18,6,3,2,6,2,http://prech.ac/2:4232p34p
+,4 4p 3 3,14,4,3.5,2,7,1,http://prech.ac/2:44p33
+,4p 4 5 1,14,4,3.5,2,7,1,http://prech.ac/2:4p451
+,6 3 1 4p,14,4,3.5,2,7,1,http://prech.ac/2:6314p
+,5 2 4p 3,14,4,3.5,2,7,1,http://prech.ac/2:524p3
+,5 4p 2 3,14,4,3.5,2,7,1,http://prech.ac/2:54p23
+,5p 5 3 1,14,4,3.5,2,7,1,http://prech.ac/2:5p531
+,4 4 4p 3 3 3,21,6,3.5,2,7,1,http://prech.ac/2:444p333
+,5p 3 3 3 3 4,21,6,3.5,2,7,1,http://prech.ac/2:5p33334
+"Section: 2 Jugglers, 8 & 9 Objects",,,,,,,,
+,"(4x, 4xp)",8,2,4,2,8,1,
+,"(4x, 4xp)*",8,2,4,2,8,1,
+,4p,4,1,4,2,8,1,
+,4.5p 4.5p 3,12,3,4,2,8,2,http://prech.ac/2:4.5p4.5p3
+,4p 5p 3 4,16,4,4,2,8,2,http://prech.ac/2:4p5p34
+,5 4p 4p 3,16,4,4,2,8,2,http://prech.ac/2:54p4p3
+,5 4.5p 4.5p 3 3,20,5,4,2,8,2,http://prech.ac/2:54.5p4.5p33
+,"(4, 6x) (6x, 4) (4xp, 6p) (2, 4x) (4x, 2) (2, 4x)",48,12,4,2,8,2,
+,"(6p, 4xp) (2, 4x)",16,4,4,2,8,2,
+,6p 3,9,2,4.5,2,9,1,http://prech.ac/2:6p3
+,5 5 4p 4,18,4,4.5,2,9,1,http://prech.ac/2:554p4
+,5 5 5p 4 4 4,27,6,4.5,2,9,1,http://prech.ac/2:555p444
+,5 5 5p 5 5 2,27,6,4.5,2,9,1,http://prech.ac/2:555p552
+,5 5 5 5 4.5p 4 4 4 4,40.5,9,4.5,2,9,1,http://prech.ac/2:55554.5p4444
+,5 5 4.5p 4 4,22.5,5,4.5,2,9,1,http://prech.ac/2:554.5p44
+,5 4.5p 4,13.5,3,4.5,2,9,1,http://prech.ac/2:54.5p4
+,"(4, 6x) (6x, 4) (4, 6x) (4x, 4px) (4, 4) (4, 4)",54,12,4.5,2,9,1,
+"Section: MultiPop, French Section",,,,,,,,
+,2 2 [3p 2p] 1 1 1,12,6,2,2,4,2,
+,2 1 [4p 2p] 1 1 1,12,6,2,2,4,2,
+,[3 3p] 1 2 1,10,4,2.5,2,5,1,
+,[3 3p] 1 2 1p,10,4,2.5,2,5,2,
+,[3 3p] 3p 2 1p,12,4,3,2,6,3,
+,2 2 [3p 2p] 1 4p 1,15,6,2.5,2,5,3,
+,3 [3 3p] 3 2,14,4,3.5,2,7,1,
+,"([4x 4xp], 2x) (2x, 2x)",14,4,3.5,2,7,1,
+,[3 3p] 5 2 1,14,4,3.5,2,7,1,
+,"([4 4x], 2x) (4, 2) (2x, [4 2xp]) (2, 2x)",28,8,3.5,2,7,1,
+,4 [4 3p] 1 2,14,4,3.5,2,7,1,
+,"([4p 4xp], 4) (2, 2x)",16,4,4,2,8,2,
+,5p [4 3] 4 2,18,4,4.5,2,9,1,
+,[5p 4 3] 4 2 4 [2 2] 1,27,6,4.5,2,9,1,
+,[5p 4p] [4 3] 2 2,20,4,5,2,10,2,
+"Section: 2 Jugglers, Synchronous & Multiplex Patterns",,,,,,,,
+,"(4, 0) (0, 0) (4, 2x) (2x, 4p) (4, 2x) (2p, 0)",24,12,2,,4,2,
+,"(4p, 2x) (2x, 4) (2x, 0) (2x, 4)",20,8,2.5,,5,1,
+,"(4x, 4xp) (4, 2x)",14,4,3.5,2,7,1,
+,"(6p, 2x) (4x, 2x)",14,4,3.5,2,7,1,
+,"(4, 4) (4p, 4x) (2x, 4x) (2x, 4x)",28,8,3.5,2,7,1,
+,"<(3p, 4)* | (3xp, 4)*>",14,4,3.5,2,7,2,
+,2 0 [2p 1] 1,6,4,1.5,2,3,1,
+,[2 3p] 2 2 3 2 0 [2 2] 2,20,8,2.5,2,5,1,
+,2 1p [4 3] 0,10,4,2.5,2,5,1,
+,2 1 [3p 3] 1,10,4,2.5,2,5,1,
+,[2p 2] 2 2 2,10,4,2.5,2,5,1,
+,2 4 [2p 2] 0,10,4,2.5,2,5,1,
+,2 1 [5p 3p] 1,12,4,3,2,6,2,
+,2 1 [4p 3p] 2,12,4,3,2,6,2,
+,2 3 [4p 3p] 2 2 2,18,6,3,2,6,2,
+,2 3 [4p 3p] 4 1 1,18,6,3,2,6,2,
+,[4p 3] 2p 2 1,12,4,3,2,6,2,
+,[3 2] 3 1p 4 2 3p,18,6,3,2,6,2,
+,2 3 [4p 3p] 5p 3 1,21,6,3.5,2,7,3,
+,2 2 [4p 3] 3,14,4,3.5,2,7,1,
+"Section: Multi Pass, French Section",,,,,,,,
+,[3.5p 2.5p] 2 1,9,3,3,2,6,2,
+,[3 2.5p] 2 3,10.5,3,3.5,2,7,1,
+,[4 3.5p] 2 1,10.5,3,3.5,2,7,1,
+,"([3p 3xp], 2)*",8,2,4,2,8,2,
+,[4 3] 2 3p,12,3,4,2,8,1,
+,[4p 3p] 2 3,12,3,4,2,8,2,
+,4.5p [4 3] 2,13.5,3,4.5,2,9,1,
+,[5p 4] [2 2] 2,15,3,5,2,10,1,
+,[5p 4] 2 4,15,3,5,2,10,1,
+,[6 4] 2 3p,15,3,5,2,10,1,
+,[5.5p 3.5p] [2 2] 2,15,3,5,2,10,2,
+,[5.5p 3.5p] 2 4,15,3,5,2,10,2,
+,[6 4] 2 4.5p,16.5,3,5.5,2,11,1,
+,[7p 5p] [2 2] 2,18,3,6,2,12,2,
+"Section: 5 Jugglers, 15 to 25 Objects",,,,,,,,
+,3p,3,1,3,5,15,1,
+,3 3 3 3.8p,12.8,4,3.2,5,16,1,http://prech.ac/5:3333.8p
+,3 3 3.6p,9.6,3,3.2,5,16,1,http://prech.ac/5:333.6p
+,"(4p, 4p) (4, 4) (4, 4)",24,6,4,5,20,2,
+,"(4p, 4p)",8,2,4,5,20,2,
+,5p 3,8,2,4,5,20,1,
+,5p 5 5 5 5 5 5 5,40,8,5,5,25,1,
+"Section: 6 Jugglers, 20 to 33 Objects",,,,,,,,
+,3 3.6p,6.67,2,3.33,6,20,1,http://prech.ac/6:33.6p
+,3 3 3 4.3p,13.33,4,3.33,6,20,1,http://prech.ac/6:3334.3p
+,3 4p,7,2,3.5,6,21,1,http://prech.ac/6:34p
+,4 4 4p 3 3 3,21,6,3.5,6,21,1,http://prech.ac/6:444p333
+,5 3 4p 3 3 3,21,6,3.5,6,21,1,http://prech.ac/6:534p333
+,5p 3 3 3,14,4,3.5,6,21,1,http://prech.ac/6:5p333
+,5p 3,8,2,4,6,24,1,
+,"(4x, 4xp)",8,2,4,6,24,1,
+,"(5p, 4x)",9,2,4.5,6,27,1,
+,5p 5,10,2,5,6,30,1,
+,6p 5,11,2,5.5,6,33,1,
+"Section: French Section, Back to Back",,,,,,,,
+,2 2 1p 3p,8,4,2,2,4,2,http://prech.ac/2:221p3p
+,3 1 1p 3p,8,4,2,2,4,2,http://prech.ac/2:311p3p
+,3 3 3 1p,10,4,2.5,2,5,1,http://prech.ac/2:3331p
+,4 4 1 1p,10,4,2.5,2,5,1,http://prech.ac/2:4411p
+"Section: 7 Jugglers, 21 to 28 Objects",,,,,,,,
+,3 3 3 3p,12,4,3,7,21,1,
+,3 3 3p,9,3,3,7,21,1,
+,3 3p,6,2,3,7,21,1,
+,3.5p 3 3 3,12.5,4,3.125,7,22,1,http://prech.ac/7:3.5p333
+,"(4xp, 4xp) (4, 4) (4, 4)",24,6,4,7,28,2,
+"Section: 10 Jugglers, 15 to 30 Objects",,,,,,,,
+,3p 3 3 3,12,4,3,10,30,1,
+,3 1 1p 1,6,4,1.5,10,15,1,http://prech.ac/10:311p1
+,3p 1 1p 1,6,4,1.5,10,15,2,
+"Section: Clubs & Rings, Numbers Patterns",,,,,,,,
+,"(6xp, 4x)",10,2,5,2,10,1,
+,5p 5,10,2,5,2,10,1,
+,6 6 6 6 6 6 5p 5p 4 4 4 4 4 4,70,14,5,2,10,2,http://prech.ac/2:6666665p5p444444
+,"(4, 4) (4, 4) (4, 4) (5p, 5p) (6, 6) (6, 6) (6, 6)",70,14,5,2,10,2,
+,6p 5,11,2,5.5,2,11,1,http://prech.ac/2:6p5
+,6 6 6 6 6p 5 5 5 5 5,55,10,5.5,2,11,1,http://prech.ac/2:66666p55555
+,6p,6,1,6,2,12,1,
+,"(6xp, 6x)",12,2,6,2,12,1,
+,"< (6.5p, 6.5p) | (5.5p, 5.5p) >",24,4,6,2,12,4,
+,7p 5,12,2,6,2,12,1,
+,"(7p, 6x)",13,2,6.5,2,13,1,
+,6.5p,6.5,1,6.5,2,13,1,http://prech.ac/2:6.5p
+,7p 7,14,2,7,2,14,1,
